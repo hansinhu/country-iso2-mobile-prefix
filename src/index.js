@@ -12,1156 +12,1465 @@
     var list = [
         {
             "en_name": "Angola",
-            "cn_name": "安哥拉",
+            "zh_name": "安哥拉",
             "iso2": "AO",
-            "prefix": "244"
+            "prefix": "244",
+            "currency": "AOA",
+            "symbol": "AOA"
         },
         {
             "en_name": "Afghanistan",
-            "cn_name": "阿富汗",
+            "zh_name": "阿富汗",
             "iso2": "AF",
-            "prefix": "93"
+            "prefix": "93",
+            "currency": "AFN",
+            "symbol": "Af"
         },
         {
             "en_name": "Albania",
-            "cn_name": "阿尔巴尼亚",
+            "zh_name": "阿尔巴尼亚",
             "iso2": "AL",
-            "prefix": "355"
+            "prefix": "355",
+            "currency": "ALL",
+            "symbol": "ALL"
         },
         {
             "en_name": "Algeria",
-            "cn_name": "阿尔及利亚",
+            "zh_name": "阿尔及利亚",
             "iso2": "DZ",
-            "prefix": "213"
+            "prefix": "213",
+            "currency": "DZD",
+            "symbol": "DA"
         },
         {
             "en_name": "Andorra",
-            "cn_name": "安道尔共和国",
+            "zh_name": "安道尔共和国",
             "iso2": "AD",
-            "prefix": "376"
+            "prefix": "376",
+            "currency": "EUR",
+            "symbol": "€"
         },
         {
             "en_name": "Anguilla",
-            "cn_name": "安圭拉岛",
+            "zh_name": "安圭拉岛",
             "iso2": "AI",
-            "prefix": "1264"
+            "prefix": "1264",
+            "currency": "XCD",
+            "symbol": "XCD"
         },
         {
             "en_name": "Antigua and Barbuda",
-            "cn_name": "安提瓜和巴布达",
+            "zh_name": "安提瓜和巴布达",
             "iso2": "AG",
-            "prefix": "1268"
+            "prefix": "1268",
+            "currency": "XCD",
+            "symbol": "XCD"
         },
         {
             "en_name": "Argentina",
-            "cn_name": "阿根廷",
+            "zh_name": "阿根廷",
             "iso2": "AR",
-            "prefix": "54"
+            "prefix": "54",
+            "currency": "ARS",
+            "symbol": "AR$"
         },
         {
             "en_name": "Armenia",
-            "cn_name": "亚美尼亚",
+            "zh_name": "亚美尼亚",
             "iso2": "AM",
-            "prefix": "374"
-        },
-        {
-            "en_name": "Ascension",
-            "cn_name": "阿森松",
-            "iso2": "",
-            "prefix": "247"
+            "prefix": "374",
+            "currency": "AMD",
+            "symbol": "AMD"
         },
         {
             "en_name": "Australia",
-            "cn_name": "澳大利亚",
+            "zh_name": "澳大利亚",
             "iso2": "AU",
-            "prefix": "61"
+            "prefix": "61",
+            "currency": "AUD",
+            "symbol": "AU$"
         },
         {
             "en_name": "Austria",
-            "cn_name": "奥地利",
+            "zh_name": "奥地利",
             "iso2": "AT",
-            "prefix": "43"
+            "prefix": "43",
+            "currency": "EUR",
+            "symbol": "€"
         },
         {
             "en_name": "Azerbaijan",
-            "cn_name": "阿塞拜疆",
+            "zh_name": "阿塞拜疆",
             "iso2": "AZ",
-            "prefix": "994"
+            "prefix": "994",
+            "currency": "AZN",
+            "symbol": "man."
         },
         {
             "en_name": "Bahamas",
-            "cn_name": "巴哈马",
+            "zh_name": "巴哈马",
             "iso2": "BS",
-            "prefix": "1242"
+            "prefix": "1242",
+            "currency": "BSD",
+            "symbol": "BSD"
         },
         {
             "en_name": "Bahrain",
-            "cn_name": "巴林",
+            "zh_name": "巴林",
             "iso2": "BH",
-            "prefix": "973"
+            "prefix": "973",
+            "currency": "BHD",
+            "symbol": "BD"
         },
         {
             "en_name": "Bangladesh",
-            "cn_name": "孟加拉国",
+            "zh_name": "孟加拉国",
             "iso2": "BD",
-            "prefix": "880"
+            "prefix": "880",
+            "currency": "BDT",
+            "symbol": "Tk"
         },
         {
             "en_name": "Barbados",
-            "cn_name": "巴巴多斯",
+            "zh_name": "巴巴多斯",
             "iso2": "BB",
-            "prefix": "1246"
+            "prefix": "1246",
+            "currency": "BBD",
+            "symbol": "BBD"
         },
         {
             "en_name": "Belarus",
-            "cn_name": "白俄罗斯",
+            "zh_name": "白俄罗斯",
             "iso2": "BY",
-            "prefix": "375"
+            "prefix": "375",
+            "currency": "BYR",
+            "symbol": "BYR"
         },
         {
             "en_name": "Belgium",
-            "cn_name": "比利时",
+            "zh_name": "比利时",
             "iso2": "BE",
-            "prefix": "32"
+            "prefix": "32",
+            "currency": "EUR",
+            "symbol": "€"
         },
         {
             "en_name": "Belize",
-            "cn_name": "伯利兹",
+            "zh_name": "伯利兹",
             "iso2": "BZ",
-            "prefix": "501"
+            "prefix": "501",
+            "currency": "BZD",
+            "symbol": "BZ$"
         },
         {
             "en_name": "Benin",
-            "cn_name": "贝宁",
+            "zh_name": "贝宁",
             "iso2": "BJ",
-            "prefix": "229"
+            "prefix": "229",
+            "currency": "XOF",
+            "symbol": "CFA"
         },
         {
             "en_name": "Bermuda Is.",
-            "cn_name": "百慕大群岛",
+            "zh_name": "百慕大群岛",
             "iso2": "BM",
-            "prefix": "1441"
+            "prefix": "1441",
+            "currency": "BMD",
+            "symbol": "BMD"
         },
         {
             "en_name": "Bolivia",
-            "cn_name": "玻利维亚",
+            "zh_name": "玻利维亚",
             "iso2": "BO",
-            "prefix": "591"
+            "prefix": "591",
+            "currency": "BOB",
+            "symbol": "Bs"
         },
         {
             "en_name": "Botswana",
-            "cn_name": "博茨瓦纳",
+            "zh_name": "博茨瓦纳",
             "iso2": "BW",
-            "prefix": "267"
+            "prefix": "267",
+            "currency": "BWP",
+            "symbol": "BWP"
         },
         {
             "en_name": "Brazil",
-            "cn_name": "巴西",
+            "zh_name": "巴西",
             "iso2": "BR",
-            "prefix": "55"
+            "prefix": "55",
+            "currency": "BRL",
+            "symbol": "R$"
         },
         {
             "en_name": "Brunei",
-            "cn_name": "文莱",
+            "zh_name": "文莱",
             "iso2": "BN",
-            "prefix": "673"
+            "prefix": "673",
+            "currency": "BND",
+            "symbol": "BN$"
         },
         {
             "en_name": "Bulgaria",
-            "cn_name": "保加利亚",
+            "zh_name": "保加利亚",
             "iso2": "BG",
-            "prefix": "359"
+            "prefix": "359",
+            "currency": "BGN",
+            "symbol": "BGN"
         },
         {
             "en_name": "Burkina-faso",
-            "cn_name": "布基纳法索",
+            "zh_name": "布基纳法索",
             "iso2": "BF",
-            "prefix": "226"
+            "prefix": "226",
+            "currency": "XOF",
+            "symbol": "CFA"
         },
         {
             "en_name": "Burma",
-            "cn_name": "缅甸",
+            "zh_name": "缅甸",
             "iso2": "MM",
-            "prefix": "95"
+            "prefix": "95",
+            "currency": "MMK",
+            "symbol": "MMK"
         },
         {
             "en_name": "Burundi",
-            "cn_name": "布隆迪",
+            "zh_name": "布隆迪",
             "iso2": "BI",
-            "prefix": "257"
+            "prefix": "257",
+            "currency": "BIF",
+            "symbol": "FBu"
         },
         {
             "en_name": "Cameroon",
-            "cn_name": "喀麦隆",
+            "zh_name": "喀麦隆",
             "iso2": "CM",
-            "prefix": "237"
+            "prefix": "237",
+            "currency": "XAF",
+            "symbol": "FCFA"
         },
         {
             "en_name": "Canada",
-            "cn_name": "加拿大",
+            "zh_name": "加拿大",
             "iso2": "CA",
-            "prefix": "1"
-        },
-        {
-            "en_name": "Cayman Is.",
-            "cn_name": "开曼群岛",
-            "iso2": "",
-            "prefix": "1345"
+            "prefix": "1",
+            "currency": "CAD",
+            "symbol": "CA$"
         },
         {
             "en_name": "Central African Republic",
-            "cn_name": "中非共和国",
+            "zh_name": "中非共和国",
             "iso2": "CF",
-            "prefix": "236"
+            "prefix": "236",
+            "currency": "XAF",
+            "symbol": "FCFA"
         },
         {
             "en_name": "Chad",
-            "cn_name": "乍得",
+            "zh_name": "乍得",
             "iso2": "TD",
-            "prefix": "235"
+            "prefix": "235",
+            "currency": "XAF",
+            "symbol": "FCFA"
         },
         {
             "en_name": "Chile",
-            "cn_name": "智利",
+            "zh_name": "智利",
             "iso2": "CL",
-            "prefix": "56"
+            "prefix": "56",
+            "currency": "CLP",
+            "symbol": "CL$"
         },
         {
             "en_name": "China",
-            "cn_name": "中国",
+            "zh_name": "中国",
             "iso2": "CN",
-            "prefix": "86"
+            "prefix": "86",
+            "currency": "CNY",
+            "symbol": "CN¥"
         },
         {
             "en_name": "Colombia",
-            "cn_name": "哥伦比亚",
+            "zh_name": "哥伦比亚",
             "iso2": "CO",
-            "prefix": "57"
+            "prefix": "57",
+            "currency": "COP",
+            "symbol": "CO$"
         },
         {
             "en_name": "Congo",
-            "cn_name": "刚果",
+            "zh_name": "刚果",
             "iso2": "CG",
-            "prefix": "242"
+            "prefix": "242",
+            "currency": "XAF",
+            "symbol": "FCFA"
         },
         {
             "en_name": "Cook Is.",
-            "cn_name": "库克群岛",
+            "zh_name": "库克群岛",
             "iso2": "CK",
-            "prefix": "682"
+            "prefix": "682",
+            "currency": "NZD",
+            "symbol": "NZ$"
         },
         {
             "en_name": "Costa Rica",
-            "cn_name": "哥斯达黎加",
+            "zh_name": "哥斯达黎加",
             "iso2": "CR",
-            "prefix": "506"
+            "prefix": "506",
+            "currency": "CRC",
+            "symbol": "₡"
         },
         {
             "en_name": "Cuba",
-            "cn_name": "古巴",
+            "zh_name": "古巴",
             "iso2": "CU",
-            "prefix": "53"
+            "prefix": "53",
+            "currency": "CUP",
+            "symbol": "CUP"
         },
         {
             "en_name": "Cyprus",
-            "cn_name": "塞浦路斯",
+            "zh_name": "塞浦路斯",
             "iso2": "CY",
-            "prefix": "357"
+            "prefix": "357",
+            "currency": "EUR",
+            "symbol": "€"
         },
         {
             "en_name": "Czech Republic",
-            "cn_name": "捷克",
+            "zh_name": "捷克",
             "iso2": "CZ",
-            "prefix": "420"
+            "prefix": "420",
+            "currency": "CZK",
+            "symbol": "Kč"
         },
         {
             "en_name": "Denmark",
-            "cn_name": "丹麦",
+            "zh_name": "丹麦",
             "iso2": "DK",
-            "prefix": "45"
+            "prefix": "45",
+            "currency": "DKK",
+            "symbol": "Dkr"
         },
         {
             "en_name": "Djibouti",
-            "cn_name": "吉布提",
+            "zh_name": "吉布提",
             "iso2": "DJ",
-            "prefix": "253"
+            "prefix": "253",
+            "currency": "DJF",
+            "symbol": "Fdj"
         },
         {
             "en_name": "Dominica Rep.",
-            "cn_name": "多米尼加共和国",
+            "zh_name": "多米尼加共和国",
             "iso2": "DO",
-            "prefix": "1890"
+            "prefix": "1890",
+            "currency": "DOP",
+            "symbol": "RD$"
         },
         {
             "en_name": "Ecuador",
-            "cn_name": "厄瓜多尔",
+            "zh_name": "厄瓜多尔",
             "iso2": "EC",
-            "prefix": "593"
+            "prefix": "593",
+            "currency": "USD",
+            "symbol": "$"
         },
         {
             "en_name": "Egypt",
-            "cn_name": "埃及",
+            "zh_name": "埃及",
             "iso2": "EG",
-            "prefix": "20"
+            "prefix": "20",
+            "currency": "EGP",
+            "symbol": "EGP"
         },
         {
             "en_name": "EI Salvador",
-            "cn_name": "萨尔瓦多",
+            "zh_name": "萨尔瓦多",
             "iso2": "SV",
-            "prefix": "503"
+            "prefix": "503",
+            "currency": "USD",
+            "symbol": "$"
         },
         {
             "en_name": "Estonia",
-            "cn_name": "爱沙尼亚",
+            "zh_name": "爱沙尼亚",
             "iso2": "EE",
-            "prefix": "372"
+            "prefix": "372",
+            "currency": "EUR",
+            "symbol": "€"
         },
         {
             "en_name": "Ethiopia",
-            "cn_name": "埃塞俄比亚",
+            "zh_name": "埃塞俄比亚",
             "iso2": "ET",
-            "prefix": "251"
+            "prefix": "251",
+            "currency": "ETB",
+            "symbol": "Br"
         },
         {
             "en_name": "Fiji",
-            "cn_name": "斐济",
+            "zh_name": "斐济",
             "iso2": "FJ",
-            "prefix": "679"
+            "prefix": "679",
+            "currency": "FJD",
+            "symbol": "FJD"
         },
         {
             "en_name": "Finland",
-            "cn_name": "芬兰",
+            "zh_name": "芬兰",
             "iso2": "FI",
-            "prefix": "358"
+            "prefix": "358",
+            "currency": "EUR",
+            "symbol": "€"
         },
         {
             "en_name": "France",
-            "cn_name": "法国",
+            "zh_name": "法国",
             "iso2": "FR",
-            "prefix": "33"
+            "prefix": "33",
+            "currency": "EUR",
+            "symbol": "€"
         },
         {
             "en_name": "French Guiana",
-            "cn_name": "法属圭亚那",
+            "zh_name": "法属圭亚那",
             "iso2": "GF",
-            "prefix": "594"
+            "prefix": "594",
+            "currency": "EUR",
+            "symbol": "€"
         },
         {
             "en_name": "Gabon",
-            "cn_name": "加蓬",
+            "zh_name": "加蓬",
             "iso2": "GA",
-            "prefix": "241"
+            "prefix": "241",
+            "currency": "XAF",
+            "symbol": "FCFA"
         },
         {
             "en_name": "Gambia",
-            "cn_name": "冈比亚",
+            "zh_name": "冈比亚",
             "iso2": "GM",
-            "prefix": "220"
+            "prefix": "220",
+            "currency": "GMD",
+            "symbol": "GMD"
         },
         {
             "en_name": "Georgia",
-            "cn_name": "格鲁吉亚",
+            "zh_name": "格鲁吉亚",
             "iso2": "GE",
-            "prefix": "995"
+            "prefix": "995",
+            "currency": "GEL",
+            "symbol": "GEL"
         },
         {
             "en_name": "Germany",
-            "cn_name": "德国",
+            "zh_name": "德国",
             "iso2": "DE",
-            "prefix": "49"
+            "prefix": "49",
+            "currency": "EUR",
+            "symbol": "€"
         },
         {
             "en_name": "Ghana",
-            "cn_name": "加纳",
+            "zh_name": "加纳",
             "iso2": "GH",
-            "prefix": "233"
+            "prefix": "233",
+            "currency": "GHS",
+            "symbol": "GH₵"
         },
         {
             "en_name": "Gibraltar",
-            "cn_name": "直布罗陀",
+            "zh_name": "直布罗陀",
             "iso2": "GI",
-            "prefix": "350"
+            "prefix": "350",
+            "currency": "GIP",
+            "symbol": "GIP"
         },
         {
             "en_name": "Greece",
-            "cn_name": "希腊",
+            "zh_name": "希腊",
             "iso2": "GR",
-            "prefix": "30"
+            "prefix": "30",
+            "currency": "EUR",
+            "symbol": "€"
         },
         {
             "en_name": "Grenada",
-            "cn_name": "格林纳达",
+            "zh_name": "格林纳达",
             "iso2": "GD",
-            "prefix": "1809"
+            "prefix": "1809",
+            "currency": "XCD",
+            "symbol": "XCD"
         },
         {
             "en_name": "Guam",
-            "cn_name": "关岛",
+            "zh_name": "关岛",
             "iso2": "GU",
-            "prefix": "1671"
+            "prefix": "1671",
+            "currency": "USD",
+            "symbol": "$"
         },
         {
             "en_name": "Guatemala",
-            "cn_name": "危地马拉",
+            "zh_name": "危地马拉",
             "iso2": "GT",
-            "prefix": "502"
+            "prefix": "502",
+            "currency": "GTQ",
+            "symbol": "GTQ"
         },
         {
             "en_name": "Guinea",
-            "cn_name": "几内亚",
+            "zh_name": "几内亚",
             "iso2": "GN",
-            "prefix": "224"
+            "prefix": "224",
+            "currency": "GNF",
+            "symbol": "FG"
         },
         {
             "en_name": "Guyana",
-            "cn_name": "圭亚那",
+            "zh_name": "圭亚那",
             "iso2": "GY",
-            "prefix": "592"
+            "prefix": "592",
+            "currency": "GYD",
+            "symbol": "GYD"
         },
         {
             "en_name": "Haiti",
-            "cn_name": "海地",
+            "zh_name": "海地",
             "iso2": "HT",
-            "prefix": "509"
+            "prefix": "509",
+            "currency": "HTG",
+            "symbol": "HTG"
         },
         {
             "en_name": "Honduras",
-            "cn_name": "洪都拉斯",
+            "zh_name": "洪都拉斯",
             "iso2": "HN",
-            "prefix": "504"
+            "prefix": "504",
+            "currency": "HNL",
+            "symbol": "HNL"
         },
         {
             "en_name": "Hongkong",
-            "cn_name": "香港",
+            "zh_name": "香港",
             "iso2": "HK",
-            "prefix": "852"
+            "prefix": "852",
+            "currency": "HKD",
+            "symbol": "HK$"
         },
         {
             "en_name": "Hungary",
-            "cn_name": "匈牙利",
+            "zh_name": "匈牙利",
             "iso2": "HU",
-            "prefix": "36"
+            "prefix": "36",
+            "currency": "HUF",
+            "symbol": "Ft"
         },
         {
             "en_name": "Iceland",
-            "cn_name": "冰岛",
+            "zh_name": "冰岛",
             "iso2": "IS",
-            "prefix": "354"
+            "prefix": "354",
+            "currency": "ISK",
+            "symbol": "Ikr"
         },
         {
             "en_name": "India",
-            "cn_name": "印度",
+            "zh_name": "印度",
             "iso2": "IN",
-            "prefix": "91"
+            "prefix": "91",
+            "currency": "INR",
+            "symbol": "Rs"
         },
         {
             "en_name": "Indonesia",
-            "cn_name": "印度尼西亚",
+            "zh_name": "印度尼西亚",
             "iso2": "ID",
-            "prefix": "62"
+            "prefix": "62",
+            "currency": "IDR",
+            "symbol": "Rp"
         },
         {
             "en_name": "Iran",
-            "cn_name": "伊朗",
+            "zh_name": "伊朗",
             "iso2": "IR",
-            "prefix": "98"
+            "prefix": "98",
+            "currency": "IRR",
+            "symbol": "IRR"
         },
         {
             "en_name": "Iraq",
-            "cn_name": "伊拉克",
+            "zh_name": "伊拉克",
             "iso2": "IQ",
-            "prefix": "964"
+            "prefix": "964",
+            "currency": "IQD",
+            "symbol": "IQD"
         },
         {
             "en_name": "Ireland",
-            "cn_name": "爱尔兰",
+            "zh_name": "爱尔兰",
             "iso2": "IE",
-            "prefix": "353"
+            "prefix": "353",
+            "currency": "EUR",
+            "symbol": "€"
         },
         {
             "en_name": "Israel",
-            "cn_name": "以色列",
+            "zh_name": "以色列",
             "iso2": "IL",
-            "prefix": "972"
+            "prefix": "972",
+            "currency": "ILS",
+            "symbol": "₪"
         },
         {
             "en_name": "Italy",
-            "cn_name": "意大利",
+            "zh_name": "意大利",
             "iso2": "IT",
-            "prefix": "39"
-        },
-        {
-            "en_name": "Ivory Coast",
-            "cn_name": "科特迪瓦",
-            "iso2": "",
-            "prefix": "225"
+            "prefix": "39",
+            "currency": "EUR",
+            "symbol": "€"
         },
         {
             "en_name": "Jamaica",
-            "cn_name": "牙买加",
+            "zh_name": "牙买加",
             "iso2": "JM",
-            "prefix": "1876"
+            "prefix": "1876",
+            "currency": "JMD",
+            "symbol": "J$"
         },
         {
             "en_name": "Japan",
-            "cn_name": "日本",
+            "zh_name": "日本",
             "iso2": "JP",
-            "prefix": "81"
+            "prefix": "81",
+            "currency": "JPY",
+            "symbol": "¥"
         },
         {
             "en_name": "Jordan",
-            "cn_name": "约旦",
+            "zh_name": "约旦",
             "iso2": "JO",
-            "prefix": "962"
+            "prefix": "962",
+            "currency": "JOD",
+            "symbol": "JD"
         },
         {
             "en_name": "Kampuchea (Cambodia )",
-            "cn_name": "柬埔寨",
+            "zh_name": "柬埔寨",
             "iso2": "KH",
-            "prefix": "855"
+            "prefix": "855",
+            "currency": "KHR",
+            "symbol": "KHR"
         },
         {
             "en_name": "Kazakstan",
-            "cn_name": "哈萨克斯坦",
+            "zh_name": "哈萨克斯坦",
             "iso2": "KZ",
-            "prefix": "327"
+            "prefix": "327",
+            "currency": "KZT",
+            "symbol": "KZT"
         },
         {
             "en_name": "Kenya",
-            "cn_name": "肯尼亚",
+            "zh_name": "肯尼亚",
             "iso2": "KE",
-            "prefix": "254"
+            "prefix": "254",
+            "currency": "KES",
+            "symbol": "Ksh"
         },
         {
             "en_name": "Korea",
-            "cn_name": "韩国",
+            "zh_name": "韩国",
             "iso2": "KR",
-            "prefix": "82"
+            "prefix": "82",
+            "currency": "KRW",
+            "symbol": "₩"
         },
         {
             "en_name": "Kuwait",
-            "cn_name": "科威特",
+            "zh_name": "科威特",
             "iso2": "KW",
-            "prefix": "965"
+            "prefix": "965",
+            "currency": "KWD",
+            "symbol": "KD"
         },
         {
             "en_name": "Kyrgyzstan",
-            "cn_name": "吉尔吉斯坦",
+            "zh_name": "吉尔吉斯坦",
             "iso2": "KG",
-            "prefix": "331"
+            "prefix": "331",
+            "currency": "KGS",
+            "symbol": "KGS"
         },
         {
             "en_name": "Laos",
-            "cn_name": "老挝",
+            "zh_name": "老挝",
             "iso2": "LA",
-            "prefix": "856"
+            "prefix": "856",
+            "currency": "LAK",
+            "symbol": "LAK"
         },
         {
             "en_name": "Latvia",
-            "cn_name": "拉脱维亚",
+            "zh_name": "拉脱维亚",
             "iso2": "LV",
-            "prefix": "371"
+            "prefix": "371",
+            "currency": "EUR",
+            "symbol": "€"
         },
         {
             "en_name": "Lebanon",
-            "cn_name": "黎巴嫩",
+            "zh_name": "黎巴嫩",
             "iso2": "LB",
-            "prefix": "961"
+            "prefix": "961",
+            "currency": "LBP",
+            "symbol": "LB£"
         },
         {
             "en_name": "Lesotho",
-            "cn_name": "莱索托",
+            "zh_name": "莱索托",
             "iso2": "LS",
-            "prefix": "266"
+            "prefix": "266",
+            "currency": "LSL",
+            "symbol": "LSL"
         },
         {
             "en_name": "Liberia",
-            "cn_name": "利比里亚",
+            "zh_name": "利比里亚",
             "iso2": "LR",
-            "prefix": "231"
+            "prefix": "231",
+            "currency": "LRD",
+            "symbol": "LRD"
         },
         {
             "en_name": "Libya",
-            "cn_name": "利比亚",
+            "zh_name": "利比亚",
             "iso2": "LY",
-            "prefix": "218"
+            "prefix": "218",
+            "currency": "LYD",
+            "symbol": "LD"
         },
         {
             "en_name": "Liechtenstein",
-            "cn_name": "列支敦士登",
+            "zh_name": "列支敦士登",
             "iso2": "LI",
-            "prefix": "423"
+            "prefix": "423",
+            "currency": "CHF",
+            "symbol": "CHF"
         },
         {
             "en_name": "Lithuania",
-            "cn_name": "立陶宛",
+            "zh_name": "立陶宛",
             "iso2": "LT",
-            "prefix": "370"
+            "prefix": "370",
+            "currency": "EUR",
+            "symbol": "€"
         },
         {
             "en_name": "Luxembourg",
-            "cn_name": "卢森堡",
+            "zh_name": "卢森堡",
             "iso2": "LU",
-            "prefix": "352"
+            "prefix": "352",
+            "currency": "EUR",
+            "symbol": "€"
         },
         {
             "en_name": "Macao",
-            "cn_name": "澳门",
+            "zh_name": "澳门",
             "iso2": "MO",
-            "prefix": "853"
+            "prefix": "853",
+            "currency": "MOP",
+            "symbol": "MOP$"
         },
         {
             "en_name": "Madagascar",
-            "cn_name": "马达加斯加",
+            "zh_name": "马达加斯加",
             "iso2": "MG",
-            "prefix": "261"
+            "prefix": "261",
+            "currency": "MGA",
+            "symbol": "MGA"
         },
         {
             "en_name": "Malawi",
-            "cn_name": "马拉维",
+            "zh_name": "马拉维",
             "iso2": "MW",
-            "prefix": "265"
+            "prefix": "265",
+            "currency": "MWK",
+            "symbol": "MWK"
         },
         {
             "en_name": "Malaysia",
-            "cn_name": "马来西亚",
+            "zh_name": "马来西亚",
             "iso2": "MY",
-            "prefix": "60"
+            "prefix": "60",
+            "currency": "MYR",
+            "symbol": "RM"
         },
         {
             "en_name": "Maldives",
-            "cn_name": "马尔代夫",
+            "zh_name": "马尔代夫",
             "iso2": "MV",
-            "prefix": "960"
+            "prefix": "960",
+            "currency": "MVR",
+            "symbol": "MVR"
         },
         {
             "en_name": "Mali",
-            "cn_name": "马里",
+            "zh_name": "马里",
             "iso2": "ML",
-            "prefix": "223"
+            "prefix": "223",
+            "currency": "XOF",
+            "symbol": "CFA"
         },
         {
             "en_name": "Malta",
-            "cn_name": "马耳他",
+            "zh_name": "马耳他",
             "iso2": "MT",
-            "prefix": "356"
-        },
-        {
-            "en_name": "Mariana Is",
-            "cn_name": "马里亚那群岛",
-            "iso2": "",
-            "prefix": "1670"
-        },
-        {
-            "en_name": "Martinique",
-            "cn_name": "马提尼克",
-            "iso2": "",
-            "prefix": "596"
+            "prefix": "356",
+            "currency": "EUR",
+            "symbol": "€"
         },
         {
             "en_name": "Mauritius",
-            "cn_name": "毛里求斯",
+            "zh_name": "毛里求斯",
             "iso2": "MU",
-            "prefix": "230"
+            "prefix": "230",
+            "currency": "MUR",
+            "symbol": "MURs"
         },
         {
             "en_name": "Mexico",
-            "cn_name": "墨西哥",
+            "zh_name": "墨西哥",
             "iso2": "MX",
-            "prefix": "52"
+            "prefix": "52",
+            "currency": "MXN",
+            "symbol": "MX$"
         },
         {
             "en_name": "Moldova Republic of",
-            "cn_name": "摩尔多瓦",
+            "zh_name": "摩尔多瓦",
             "iso2": "MD",
-            "prefix": "373"
+            "prefix": "373",
+            "currency": "MDL",
+            "symbol": "MDL"
         },
         {
             "en_name": "Monaco",
-            "cn_name": "摩纳哥",
+            "zh_name": "摩纳哥",
             "iso2": "MC",
-            "prefix": "377"
+            "prefix": "377",
+            "currency": "EUR",
+            "symbol": "€"
         },
         {
             "en_name": "Mongolia",
-            "cn_name": "蒙古",
+            "zh_name": "蒙古",
             "iso2": "MN",
-            "prefix": "976"
+            "prefix": "976",
+            "currency": "MNT",
+            "symbol": "MNT"
         },
         {
             "en_name": "Montserrat Is",
-            "cn_name": "蒙特塞拉特岛",
+            "zh_name": "蒙特塞拉特岛",
             "iso2": "MS",
-            "prefix": "1664"
+            "prefix": "1664",
+            "currency": "XCD",
+            "symbol": "XCD"
         },
         {
             "en_name": "Morocco",
-            "cn_name": "摩洛哥",
+            "zh_name": "摩洛哥",
             "iso2": "MA",
-            "prefix": "212"
+            "prefix": "212",
+            "currency": "MAD",
+            "symbol": "MAD"
         },
         {
             "en_name": "Mozambique",
-            "cn_name": "莫桑比克",
+            "zh_name": "莫桑比克",
             "iso2": "MZ",
-            "prefix": "258"
+            "prefix": "258",
+            "currency": "MZN",
+            "symbol": "MTn"
         },
         {
             "en_name": "Namibia",
-            "cn_name": "纳米比亚",
+            "zh_name": "纳米比亚",
             "iso2": "NA",
-            "prefix": "264"
+            "prefix": "264",
+            "currency": "NAD",
+            "symbol": "N$"
         },
         {
             "en_name": "Nauru",
-            "cn_name": "瑙鲁",
+            "zh_name": "瑙鲁",
             "iso2": "NR",
-            "prefix": "674"
+            "prefix": "674",
+            "currency": "AUD",
+            "symbol": "AU$"
         },
         {
             "en_name": "Nepal",
-            "cn_name": "尼泊尔",
+            "zh_name": "尼泊尔",
             "iso2": "NP",
-            "prefix": "977"
-        },
-        {
-            "en_name": "Netheriands Antilles",
-            "cn_name": "荷属安的列斯",
-            "iso2": "",
-            "prefix": "599"
+            "prefix": "977",
+            "currency": "NPR",
+            "symbol": "NPRs"
         },
         {
             "en_name": "Netherlands",
-            "cn_name": "荷兰",
+            "zh_name": "荷兰",
             "iso2": "NL",
-            "prefix": "31"
+            "prefix": "31",
+            "currency": "EUR",
+            "symbol": "€"
         },
         {
             "en_name": "New Zealand",
-            "cn_name": "新西兰",
+            "zh_name": "新西兰",
             "iso2": "NZ",
-            "prefix": "64"
+            "prefix": "64",
+            "currency": "NZD",
+            "symbol": "NZ$"
         },
         {
             "en_name": "Nicaragua",
-            "cn_name": "尼加拉瓜",
+            "zh_name": "尼加拉瓜",
             "iso2": "NI",
-            "prefix": "505"
+            "prefix": "505",
+            "currency": "NIO",
+            "symbol": "C$"
         },
         {
             "en_name": "Niger",
-            "cn_name": "尼日尔",
+            "zh_name": "尼日尔",
             "iso2": "NE",
-            "prefix": "227"
+            "prefix": "227",
+            "currency": "XOF",
+            "symbol": "CFA"
         },
         {
             "en_name": "Nigeria",
-            "cn_name": "尼日利亚",
+            "zh_name": "尼日利亚",
             "iso2": "NG",
-            "prefix": "234"
+            "prefix": "234",
+            "currency": "NGN",
+            "symbol": "₦"
         },
         {
             "en_name": "North Korea",
-            "cn_name": "朝鲜",
+            "zh_name": "朝鲜",
             "iso2": "KP",
-            "prefix": "850"
+            "prefix": "850",
+            "currency": "KPW",
+            "symbol": "KPW"
         },
         {
             "en_name": "Norway",
-            "cn_name": "挪威",
+            "zh_name": "挪威",
             "iso2": "NO",
-            "prefix": "47"
+            "prefix": "47",
+            "currency": "NOK",
+            "symbol": "Nkr"
         },
         {
             "en_name": "Oman",
-            "cn_name": "阿曼",
+            "zh_name": "阿曼",
             "iso2": "OM",
-            "prefix": "968"
+            "prefix": "968",
+            "currency": "OMR",
+            "symbol": "OMR"
         },
         {
             "en_name": "Pakistan",
-            "cn_name": "巴基斯坦",
+            "zh_name": "巴基斯坦",
             "iso2": "PK",
-            "prefix": "92"
+            "prefix": "92",
+            "currency": "PKR",
+            "symbol": "PKRs"
         },
         {
             "en_name": "Panama",
-            "cn_name": "巴拿马",
+            "zh_name": "巴拿马",
             "iso2": "PA",
-            "prefix": "507"
+            "prefix": "507",
+            "currency": "PAB",
+            "symbol": "B/."
         },
         {
             "en_name": "Papua New Cuinea",
-            "cn_name": "巴布亚新几内亚",
+            "zh_name": "巴布亚新几内亚",
             "iso2": "PG",
-            "prefix": "675"
+            "prefix": "675",
+            "currency": "PGK",
+            "symbol": "PGK"
         },
         {
             "en_name": "Paraguay",
-            "cn_name": "巴拉圭",
+            "zh_name": "巴拉圭",
             "iso2": "PY",
-            "prefix": "595"
+            "prefix": "595",
+            "currency": "PYG",
+            "symbol": "₲"
         },
         {
             "en_name": "Peru",
-            "cn_name": "秘鲁",
+            "zh_name": "秘鲁",
             "iso2": "PE",
-            "prefix": "51"
+            "prefix": "51",
+            "currency": "PEN",
+            "symbol": "S/."
         },
         {
             "en_name": "Philippines",
-            "cn_name": "菲律宾",
+            "zh_name": "菲律宾",
             "iso2": "PH",
-            "prefix": "63"
+            "prefix": "63",
+            "currency": "PHP",
+            "symbol": "₱"
         },
         {
             "en_name": "Poland",
-            "cn_name": "波兰",
+            "zh_name": "波兰",
             "iso2": "PL",
-            "prefix": "48"
+            "prefix": "48",
+            "currency": "PLN",
+            "symbol": "zł"
         },
         {
             "en_name": "French Polynesia",
-            "cn_name": "法属玻利尼西亚",
+            "zh_name": "法属玻利尼西亚",
             "iso2": "PF",
-            "prefix": "689"
+            "prefix": "689",
+            "currency": "XPF",
+            "symbol": "XPF"
         },
         {
             "en_name": "Portugal",
-            "cn_name": "葡萄牙",
+            "zh_name": "葡萄牙",
             "iso2": "PT",
-            "prefix": "351"
+            "prefix": "351",
+            "currency": "EUR",
+            "symbol": "€"
         },
         {
             "en_name": "Puerto Rico",
-            "cn_name": "波多黎各",
+            "zh_name": "波多黎各",
             "iso2": "PR",
-            "prefix": "1787"
+            "prefix": "1787",
+            "currency": "USD",
+            "symbol": "$"
         },
         {
             "en_name": "Qatar",
-            "cn_name": "卡塔尔",
+            "zh_name": "卡塔尔",
             "iso2": "QA",
-            "prefix": "974"
-        },
-        {
-            "en_name": "Reunion",
-            "cn_name": "留尼旺",
-            "iso2": "",
-            "prefix": "262"
+            "prefix": "974",
+            "currency": "QAR",
+            "symbol": "QR"
         },
         {
             "en_name": "Romania",
-            "cn_name": "罗马尼亚",
+            "zh_name": "罗马尼亚",
             "iso2": "RO",
-            "prefix": "40"
+            "prefix": "40",
+            "currency": "RON",
+            "symbol": "RON"
         },
         {
             "en_name": "Russia",
-            "cn_name": "俄罗斯",
+            "zh_name": "俄罗斯",
             "iso2": "RU",
-            "prefix": "7"
+            "prefix": "7",
+            "currency": "RUB",
+            "symbol": "RUB"
         },
         {
             "en_name": "Saint Lueia",
-            "cn_name": "圣卢西亚",
+            "zh_name": "圣卢西亚",
             "iso2": "LC",
-            "prefix": "1758"
+            "prefix": "1758",
+            "currency": "XCD",
+            "symbol": "XCD"
         },
         {
             "en_name": "Saint Vincent",
-            "cn_name": "圣文森特岛",
+            "zh_name": "圣文森特岛",
             "iso2": "VC",
-            "prefix": "1784"
-        },
-        {
-            "en_name": "Samoa Eastern",
-            "cn_name": "东萨摩亚(美)",
-            "iso2": "",
-            "prefix": "684"
-        },
-        {
-            "en_name": "Samoa Western",
-            "cn_name": "西萨摩亚",
-            "iso2": "",
-            "prefix": "685"
+            "prefix": "1784",
+            "currency": "XCD",
+            "symbol": "XCD"
         },
         {
             "en_name": "San Marino",
-            "cn_name": "圣马力诺",
+            "zh_name": "圣马力诺",
             "iso2": "SM",
-            "prefix": "378"
+            "prefix": "378",
+            "currency": "EUR",
+            "symbol": "€"
         },
         {
             "en_name": "Sao Tome and Principe",
-            "cn_name": "圣多美和普林西比",
+            "zh_name": "圣多美和普林西比",
             "iso2": "ST",
-            "prefix": "239"
+            "prefix": "239",
+            "currency": "STD",
+            "symbol": "STD"
         },
         {
             "en_name": "Saudi Arabia",
-            "cn_name": "沙特阿拉伯",
+            "zh_name": "沙特阿拉伯",
             "iso2": "SA",
-            "prefix": "966"
+            "prefix": "966",
+            "currency": "SAR",
+            "symbol": "SR"
         },
         {
             "en_name": "Senegal",
-            "cn_name": "塞内加尔",
+            "zh_name": "塞内加尔",
             "iso2": "SN",
-            "prefix": "221"
+            "prefix": "221",
+            "currency": "XOF",
+            "symbol": "CFA"
         },
         {
             "en_name": "Seychelles",
-            "cn_name": "塞舌尔",
+            "zh_name": "塞舌尔",
             "iso2": "SC",
-            "prefix": "248"
+            "prefix": "248",
+            "currency": "SCR",
+            "symbol": "SCR"
         },
         {
             "en_name": "Sierra Leone",
-            "cn_name": "塞拉利昂",
+            "zh_name": "塞拉利昂",
             "iso2": "SL",
-            "prefix": "232"
+            "prefix": "232",
+            "currency": "SLL",
+            "symbol": "SLL"
         },
         {
             "en_name": "Singapore",
-            "cn_name": "新加坡",
+            "zh_name": "新加坡",
             "iso2": "SG",
-            "prefix": "65"
+            "prefix": "65",
+            "currency": "SGD",
+            "symbol": "S$"
         },
         {
             "en_name": "Slovakia",
-            "cn_name": "斯洛伐克",
+            "zh_name": "斯洛伐克",
             "iso2": "SK",
-            "prefix": "421"
+            "prefix": "421",
+            "currency": "EUR",
+            "symbol": "€"
         },
         {
             "en_name": "Slovenia",
-            "cn_name": "斯洛文尼亚",
+            "zh_name": "斯洛文尼亚",
             "iso2": "SI",
-            "prefix": "386"
+            "prefix": "386",
+            "currency": "EUR",
+            "symbol": "€"
         },
         {
             "en_name": "Solomon Is",
-            "cn_name": "所罗门群岛",
+            "zh_name": "所罗门群岛",
             "iso2": "SB",
-            "prefix": "677"
+            "prefix": "677",
+            "currency": "SBD",
+            "symbol": "SBD"
         },
         {
             "en_name": "Somali",
-            "cn_name": "索马里",
+            "zh_name": "索马里",
             "iso2": "SO",
-            "prefix": "252"
+            "prefix": "252",
+            "currency": "SOS",
+            "symbol": "Ssh"
         },
         {
             "en_name": "South Africa",
-            "cn_name": "南非",
+            "zh_name": "南非",
             "iso2": "ZA",
-            "prefix": "27"
+            "prefix": "27",
+            "currency": "ZAR",
+            "symbol": "R"
         },
         {
             "en_name": "Spain",
-            "cn_name": "西班牙",
+            "zh_name": "西班牙",
             "iso2": "ES",
-            "prefix": "34"
+            "prefix": "34",
+            "currency": "EUR",
+            "symbol": "€"
         },
         {
             "en_name": "Sri Lanka",
-            "cn_name": "斯里兰卡",
+            "zh_name": "斯里兰卡",
             "iso2": "LK",
-            "prefix": "94"
+            "prefix": "94",
+            "currency": "LKR",
+            "symbol": "SLRs"
         },
         {
             "en_name": "St.Lucia",
-            "cn_name": "圣卢西亚",
+            "zh_name": "圣卢西亚",
             "iso2": "LC",
-            "prefix": "1758"
+            "prefix": "1758",
+            "currency": "XCD",
+            "symbol": "XCD"
         },
         {
             "en_name": "St.Vincent",
-            "cn_name": "圣文森特",
+            "zh_name": "圣文森特",
             "iso2": "VC",
-            "prefix": "1784"
+            "prefix": "1784",
+            "currency": "XCD",
+            "symbol": "XCD"
         },
         {
             "en_name": "Sudan",
-            "cn_name": "苏丹",
+            "zh_name": "苏丹",
             "iso2": "SD",
-            "prefix": "249"
+            "prefix": "249",
+            "currency": "SDG",
+            "symbol": "SDG"
         },
         {
             "en_name": "Suriname",
-            "cn_name": "苏里南",
+            "zh_name": "苏里南",
             "iso2": "SR",
-            "prefix": "597"
+            "prefix": "597",
+            "currency": "SRD",
+            "symbol": "SRD"
         },
         {
             "en_name": "Swaziland",
-            "cn_name": "斯威士兰",
+            "zh_name": "斯威士兰",
             "iso2": "SZ",
-            "prefix": "268"
+            "prefix": "268",
+            "currency": "SZL",
+            "symbol": "SZL"
         },
         {
             "en_name": "Sweden",
-            "cn_name": "瑞典",
+            "zh_name": "瑞典",
             "iso2": "SE",
-            "prefix": "46"
+            "prefix": "46",
+            "currency": "SEK",
+            "symbol": "Skr"
         },
         {
             "en_name": "Switzerland",
-            "cn_name": "瑞士",
+            "zh_name": "瑞士",
             "iso2": "CH",
-            "prefix": "41"
+            "prefix": "41",
+            "currency": "CHF",
+            "symbol": "CHF"
         },
         {
             "en_name": "Syria",
-            "cn_name": "叙利亚",
+            "zh_name": "叙利亚",
             "iso2": "SY",
-            "prefix": "963"
+            "prefix": "963",
+            "currency": "SYP",
+            "symbol": "SY£"
         },
         {
             "en_name": "Taiwan",
-            "cn_name": "台湾省",
+            "zh_name": "台湾省",
             "iso2": "TW",
-            "prefix": "886"
+            "prefix": "886",
+            "currency": "TWD",
+            "symbol": "NT$"
         },
         {
             "en_name": "Tajikstan",
-            "cn_name": "塔吉克斯坦",
+            "zh_name": "塔吉克斯坦",
             "iso2": "TJ",
-            "prefix": "992"
+            "prefix": "992",
+            "currency": "TJS",
+            "symbol": "TJS"
         },
         {
             "en_name": "Tanzania",
-            "cn_name": "坦桑尼亚",
+            "zh_name": "坦桑尼亚",
             "iso2": "TZ",
-            "prefix": "255"
+            "prefix": "255",
+            "currency": "TZS",
+            "symbol": "TSh"
         },
         {
             "en_name": "Thailand",
-            "cn_name": "泰国",
+            "zh_name": "泰国",
             "iso2": "TH",
-            "prefix": "66"
+            "prefix": "66",
+            "currency": "THB",
+            "symbol": "฿"
         },
         {
             "en_name": "Togo",
-            "cn_name": "多哥",
+            "zh_name": "多哥",
             "iso2": "TG",
-            "prefix": "228"
+            "prefix": "228",
+            "currency": "XOF",
+            "symbol": "CFA"
         },
         {
             "en_name": "Tonga",
-            "cn_name": "汤加",
+            "zh_name": "汤加",
             "iso2": "TO",
-            "prefix": "676"
+            "prefix": "676",
+            "currency": "TOP",
+            "symbol": "T$"
         },
         {
             "en_name": "Trinidad and Tobago",
-            "cn_name": "特立尼达和多巴哥",
+            "zh_name": "特立尼达和多巴哥",
             "iso2": "TT",
-            "prefix": "1809"
+            "prefix": "1809",
+            "currency": "TTD",
+            "symbol": "TT$"
         },
         {
             "en_name": "Tunisia",
-            "cn_name": "突尼斯",
+            "zh_name": "突尼斯",
             "iso2": "TN",
-            "prefix": "216"
+            "prefix": "216",
+            "currency": "TND",
+            "symbol": "DT"
         },
         {
             "en_name": "Turkey",
-            "cn_name": "土耳其",
+            "zh_name": "土耳其",
             "iso2": "TR",
-            "prefix": "90"
+            "prefix": "90",
+            "currency": "TRY",
+            "symbol": "TL"
         },
         {
             "en_name": "Turkmenistan",
-            "cn_name": "土库曼斯坦",
+            "zh_name": "土库曼斯坦",
             "iso2": "TM",
-            "prefix": "993"
+            "prefix": "993",
+            "currency": "TMT",
+            "symbol": "TMT"
         },
         {
             "en_name": "Uganda",
-            "cn_name": "乌干达",
+            "zh_name": "乌干达",
             "iso2": "UG",
-            "prefix": "256"
+            "prefix": "256",
+            "currency": "UGX",
+            "symbol": "USh"
         },
         {
             "en_name": "Ukraine",
-            "cn_name": "乌克兰",
+            "zh_name": "乌克兰",
             "iso2": "UA",
-            "prefix": "380"
+            "prefix": "380",
+            "currency": "UAH",
+            "symbol": "₴"
         },
         {
             "en_name": "United Arab Emirates",
-            "cn_name": "阿拉伯联合酋长国",
+            "zh_name": "阿拉伯联合酋长国",
             "iso2": "AE",
-            "prefix": "971"
+            "prefix": "971",
+            "currency": "AED",
+            "symbol": "AED"
         },
         {
             "en_name": "United Kiongdom",
-            "cn_name": "英国",
+            "zh_name": "英国",
             "iso2": "GB",
-            "prefix": "44"
+            "prefix": "44",
+            "currency": "GBP",
+            "symbol": "£"
         },
         {
             "en_name": "United States of America",
-            "cn_name": "美国",
+            "zh_name": "美国",
             "iso2": "US",
-            "prefix": "1"
+            "prefix": "1",
+            "currency": "USD",
+            "symbol": "$"
         },
         {
             "en_name": "Uruguay",
-            "cn_name": "乌拉圭",
+            "zh_name": "乌拉圭",
             "iso2": "UY",
-            "prefix": "598"
+            "prefix": "598",
+            "currency": "UYU",
+            "symbol": "$U"
         },
         {
             "en_name": "Uzbekistan",
-            "cn_name": "乌兹别克斯坦",
+            "zh_name": "乌兹别克斯坦",
             "iso2": "UZ",
-            "prefix": "233"
+            "prefix": "233",
+            "currency": "UZS",
+            "symbol": "UZS"
         },
         {
             "en_name": "Venezuela",
-            "cn_name": "委内瑞拉",
+            "zh_name": "委内瑞拉",
             "iso2": "VE",
-            "prefix": "58"
+            "prefix": "58",
+            "currency": "VEF",
+            "symbol": "Bs.F."
         },
         {
             "en_name": "Vietnam",
-            "cn_name": "越南",
+            "zh_name": "越南",
             "iso2": "VN",
-            "prefix": "84"
+            "prefix": "84",
+            "currency": "VND",
+            "symbol": "₫"
         },
         {
             "en_name": "Yemen",
-            "cn_name": "也门",
+            "zh_name": "也门",
             "iso2": "YE",
-            "prefix": "967"
+            "prefix": "967",
+            "currency": "YER",
+            "symbol": "YR"
         },
         {
             "en_name": "Yugoslavia",
-            "cn_name": "南斯拉夫",
+            "zh_name": "南斯拉夫",
             "iso2": "YU",
             "prefix": "381"
         },
         {
             "en_name": "Zimbabwe",
-            "cn_name": "津巴布韦",
+            "zh_name": "津巴布韦",
             "iso2": "ZW",
-            "prefix": "263"
+            "prefix": "263",
+            "currency": "ZWL",
+            "symbol": "ZWL"
         },
         {
             "en_name": "Zaire",
-            "cn_name": "扎伊尔",
+            "zh_name": "扎伊尔",
             "iso2": "ZR",
             "prefix": "243"
         },
         {
             "en_name": "Zambia",
-            "cn_name": "赞比亚",
+            "zh_name": "赞比亚",
             "iso2": "ZM",
-            "prefix": "260"
+            "prefix": "260",
+            "currency": "ZMK",
+            "symbol": "ZK"
         }
     ];
     exports.default = list;
+    var dataJSON = { "BD": { "countryName": "Bangladesh", "currency": "BDT", "symbol": "Tk" }, "BE": { "countryName": "Belgium", "currency": "EUR", "symbol": "€" }, "BF": { "countryName": "Burkina Faso", "currency": "XOF", "symbol": "CFA" }, "BG": { "countryName": "Bulgaria", "currency": "BGN", "symbol": "BGN" }, "BA": { "countryName": "Bosnia and Herzegovina", "currency": "BAM", "symbol": "KM" }, "BB": { "countryName": "Barbados", "currency": "BBD", "symbol": "BBD" }, "WF": { "countryName": "Wallis and Futuna", "currency": "XPF", "symbol": "XPF" }, "BL": { "countryName": "Saint Barthelemy", "currency": "EUR", "symbol": "€" }, "BM": { "countryName": "Bermuda", "currency": "BMD", "symbol": "BMD" }, "BN": { "countryName": "Brunei", "currency": "BND", "symbol": "BN$" }, "BO": { "countryName": "Bolivia", "currency": "BOB", "symbol": "Bs" }, "BH": { "countryName": "Bahrain", "currency": "BHD", "symbol": "BD" }, "BI": { "countryName": "Burundi", "currency": "BIF", "symbol": "FBu" }, "BJ": { "countryName": "Benin", "currency": "XOF", "symbol": "CFA" }, "BT": { "countryName": "Bhutan", "currency": "BTN", "symbol": "BTN" }, "JM": { "countryName": "Jamaica", "currency": "JMD", "symbol": "J$" }, "BV": { "countryName": "Bouvet Island", "currency": "NOK", "symbol": "Nkr" }, "BW": { "countryName": "Botswana", "currency": "BWP", "symbol": "BWP" }, "WS": { "countryName": "Samoa", "currency": "WST", "symbol": "WST" }, "BQ": { "countryName": "Bonaire, Saint Eustatius and Saba ", "currency": "USD", "symbol": "$" }, "BR": { "countryName": "Brazil", "currency": "BRL", "symbol": "R$" }, "BS": { "countryName": "Bahamas", "currency": "BSD", "symbol": "BSD" }, "JE": { "countryName": "Jersey", "currency": "GBP", "symbol": "£" }, "BY": { "countryName": "Belarus", "currency": "BYR", "symbol": "BYR" }, "BZ": { "countryName": "Belize", "currency": "BZD", "symbol": "BZ$" }, "RU": { "countryName": "Russia", "currency": "RUB", "symbol": "RUB" }, "RW": { "countryName": "Rwanda", "currency": "RWF", "symbol": "RWF" }, "RS": { "countryName": "Serbia", "currency": "RSD", "symbol": "din." }, "TL": { "countryName": "East Timor", "currency": "USD", "symbol": "$" }, "RE": { "countryName": "Reunion", "currency": "EUR", "symbol": "€" }, "TM": { "countryName": "Turkmenistan", "currency": "TMT", "symbol": "TMT" }, "TJ": { "countryName": "Tajikistan", "currency": "TJS", "symbol": "TJS" }, "RO": { "countryName": "Romania", "currency": "RON", "symbol": "RON" }, "TK": { "countryName": "Tokelau", "currency": "NZD", "symbol": "NZ$" }, "GW": { "countryName": "Guinea-Bissau", "currency": "XOF", "symbol": "CFA" }, "GU": { "countryName": "Guam", "currency": "USD", "symbol": "$" }, "GT": { "countryName": "Guatemala", "currency": "GTQ", "symbol": "GTQ" }, "GS": { "countryName": "South Georgia and the South Sandwich Islands", "currency": "GBP", "symbol": "£" }, "GR": { "countryName": "Greece", "currency": "EUR", "symbol": "€" }, "GQ": { "countryName": "Equatorial Guinea", "currency": "XAF", "symbol": "FCFA" }, "GP": { "countryName": "Guadeloupe", "currency": "EUR", "symbol": "€" }, "JP": { "countryName": "Japan", "currency": "JPY", "symbol": "¥" }, "GY": { "countryName": "Guyana", "currency": "GYD", "symbol": "GYD" }, "GG": { "countryName": "Guernsey", "currency": "GBP", "symbol": "£" }, "GF": { "countryName": "French Guiana", "currency": "EUR", "symbol": "€" }, "GE": { "countryName": "Georgia", "currency": "GEL", "symbol": "GEL" }, "GD": { "countryName": "Grenada", "currency": "XCD", "symbol": "XCD" }, "GB": { "countryName": "United Kingdom", "currency": "GBP", "symbol": "£" }, "GA": { "countryName": "Gabon", "currency": "XAF", "symbol": "FCFA" }, "SV": { "countryName": "El Salvador", "currency": "USD", "symbol": "$" }, "GN": { "countryName": "Guinea", "currency": "GNF", "symbol": "FG" }, "GM": { "countryName": "Gambia", "currency": "GMD", "symbol": "GMD" }, "GL": { "countryName": "Greenland", "currency": "DKK", "symbol": "Dkr" }, "GI": { "countryName": "Gibraltar", "currency": "GIP", "symbol": "GIP" }, "GH": { "countryName": "Ghana", "currency": "GHS", "symbol": "GH₵" }, "OM": { "countryName": "Oman", "currency": "OMR", "symbol": "OMR" }, "TN": { "countryName": "Tunisia", "currency": "TND", "symbol": "DT" }, "JO": { "countryName": "Jordan", "currency": "JOD", "symbol": "JD" }, "HR": { "countryName": "Croatia", "currency": "HRK", "symbol": "kn" }, "HT": { "countryName": "Haiti", "currency": "HTG", "symbol": "HTG" }, "HU": { "countryName": "Hungary", "currency": "HUF", "symbol": "Ft" }, "HK": { "countryName": "Hong Kong", "currency": "HKD", "symbol": "HK$" }, "HN": { "countryName": "Honduras", "currency": "HNL", "symbol": "HNL" }, "HM": { "countryName": "Heard Island and McDonald Islands", "currency": "AUD", "symbol": "AU$" }, "VE": { "countryName": "Venezuela", "currency": "VEF", "symbol": "Bs.F." }, "PR": { "countryName": "Puerto Rico", "currency": "USD", "symbol": "$" }, "PS": { "countryName": "Palestinian Territory", "currency": "ILS", "symbol": "₪" }, "PW": { "countryName": "Palau", "currency": "USD", "symbol": "$" }, "PT": { "countryName": "Portugal", "currency": "EUR", "symbol": "€" }, "SJ": { "countryName": "Svalbard and Jan Mayen", "currency": "NOK", "symbol": "Nkr" }, "PY": { "countryName": "Paraguay", "currency": "PYG", "symbol": "₲" }, "IQ": { "countryName": "Iraq", "currency": "IQD", "symbol": "IQD" }, "PA": { "countryName": "Panama", "currency": "PAB", "symbol": "B/." }, "PF": { "countryName": "French Polynesia", "currency": "XPF", "symbol": "XPF" }, "PG": { "countryName": "Papua New Guinea", "currency": "PGK", "symbol": "PGK" }, "PE": { "countryName": "Peru", "currency": "PEN", "symbol": "S/." }, "PK": { "countryName": "Pakistan", "currency": "PKR", "symbol": "PKRs" }, "PH": { "countryName": "Philippines", "currency": "PHP", "symbol": "₱" }, "PN": { "countryName": "Pitcairn", "currency": "NZD", "symbol": "NZ$" }, "PL": { "countryName": "Poland", "currency": "PLN", "symbol": "zł" }, "PM": { "countryName": "Saint Pierre and Miquelon", "currency": "EUR", "symbol": "€" }, "ZM": { "countryName": "Zambia", "currency": "ZMK", "symbol": "ZK" }, "EH": { "countryName": "Western Sahara", "currency": "MAD", "symbol": "MAD" }, "EE": { "countryName": "Estonia", "currency": "EUR", "symbol": "€" }, "EG": { "countryName": "Egypt", "currency": "EGP", "symbol": "EGP" }, "ZA": { "countryName": "South Africa", "currency": "ZAR", "symbol": "R" }, "EC": { "countryName": "Ecuador", "currency": "USD", "symbol": "$" }, "IT": { "countryName": "Italy", "currency": "EUR", "symbol": "€" }, "VN": { "countryName": "Vietnam", "currency": "VND", "symbol": "₫" }, "SB": { "countryName": "Solomon Islands", "currency": "SBD", "symbol": "SBD" }, "ET": { "countryName": "Ethiopia", "currency": "ETB", "symbol": "Br" }, "SO": { "countryName": "Somalia", "currency": "SOS", "symbol": "Ssh" }, "ZW": { "countryName": "Zimbabwe", "currency": "ZWL", "symbol": "ZWL" }, "SA": { "countryName": "Saudi Arabia", "currency": "SAR", "symbol": "SR" }, "ES": { "countryName": "Spain", "currency": "EUR", "symbol": "€" }, "ER": { "countryName": "Eritrea", "currency": "ERN", "symbol": "Nfk" }, "ME": { "countryName": "Montenegro", "currency": "EUR", "symbol": "€" }, "MD": { "countryName": "Moldova", "currency": "MDL", "symbol": "MDL" }, "MG": { "countryName": "Madagascar", "currency": "MGA", "symbol": "MGA" }, "MF": { "countryName": "Saint Martin", "currency": "EUR", "symbol": "€" }, "MA": { "countryName": "Morocco", "currency": "MAD", "symbol": "MAD" }, "MC": { "countryName": "Monaco", "currency": "EUR", "symbol": "€" }, "UZ": { "countryName": "Uzbekistan", "currency": "UZS", "symbol": "UZS" }, "MM": { "countryName": "Myanmar", "currency": "MMK", "symbol": "MMK" }, "ML": { "countryName": "Mali", "currency": "XOF", "symbol": "CFA" }, "MO": { "countryName": "Macao", "currency": "MOP", "symbol": "MOP$" }, "MN": { "countryName": "Mongolia", "currency": "MNT", "symbol": "MNT" }, "MH": { "countryName": "Marshall Islands", "currency": "USD", "symbol": "$" }, "MK": { "countryName": "Macedonia", "currency": "MKD", "symbol": "MKD" }, "MU": { "countryName": "Mauritius", "currency": "MUR", "symbol": "MURs" }, "MT": { "countryName": "Malta", "currency": "EUR", "symbol": "€" }, "MW": { "countryName": "Malawi", "currency": "MWK", "symbol": "MWK" }, "MV": { "countryName": "Maldives", "currency": "MVR", "symbol": "MVR" }, "MQ": { "countryName": "Martinique", "currency": "EUR", "symbol": "€" }, "MP": { "countryName": "Northern Mariana Islands", "currency": "USD", "symbol": "$" }, "MS": { "countryName": "Montserrat", "currency": "XCD", "symbol": "XCD" }, "MR": { "countryName": "Mauritania", "currency": "MRO", "symbol": "MRO" }, "IM": { "countryName": "Isle of Man", "currency": "GBP", "symbol": "£" }, "UG": { "countryName": "Uganda", "currency": "UGX", "symbol": "USh" }, "TZ": { "countryName": "Tanzania", "currency": "TZS", "symbol": "TSh" }, "MY": { "countryName": "Malaysia", "currency": "MYR", "symbol": "RM" }, "MX": { "countryName": "Mexico", "currency": "MXN", "symbol": "MX$" }, "IL": { "countryName": "Israel", "currency": "ILS", "symbol": "₪" }, "FR": { "countryName": "France", "currency": "EUR", "symbol": "€" }, "IO": { "countryName": "British Indian Ocean Territory", "currency": "USD", "symbol": "$" }, "SH": { "countryName": "Saint Helena", "currency": "SHP", "symbol": "SHP" }, "FI": { "countryName": "Finland", "currency": "EUR", "symbol": "€" }, "FJ": { "countryName": "Fiji", "currency": "FJD", "symbol": "FJD" }, "FK": { "countryName": "Falkland Islands", "currency": "FKP", "symbol": "FKP" }, "FM": { "countryName": "Micronesia", "currency": "USD", "symbol": "$" }, "FO": { "countryName": "Faroe Islands", "currency": "DKK", "symbol": "Dkr" }, "NI": { "countryName": "Nicaragua", "currency": "NIO", "symbol": "C$" }, "NL": { "countryName": "Netherlands", "currency": "EUR", "symbol": "€" }, "NO": { "countryName": "Norway", "currency": "NOK", "symbol": "Nkr" }, "NA": { "countryName": "Namibia", "currency": "NAD", "symbol": "N$" }, "VU": { "countryName": "Vanuatu", "currency": "VUV", "symbol": "VUV" }, "NC": { "countryName": "New Caledonia", "currency": "XPF", "symbol": "XPF" }, "NE": { "countryName": "Niger", "currency": "XOF", "symbol": "CFA" }, "NF": { "countryName": "Norfolk Island", "currency": "AUD", "symbol": "AU$" }, "NG": { "countryName": "Nigeria", "currency": "NGN", "symbol": "₦" }, "NZ": { "countryName": "New Zealand", "currency": "NZD", "symbol": "NZ$" }, "NP": { "countryName": "Nepal", "currency": "NPR", "symbol": "NPRs" }, "NR": { "countryName": "Nauru", "currency": "AUD", "symbol": "AU$" }, "NU": { "countryName": "Niue", "currency": "NZD", "symbol": "NZ$" }, "CK": { "countryName": "Cook Islands", "currency": "NZD", "symbol": "NZ$" }, "XK": { "countryName": "Kosovo", "currency": "EUR", "symbol": "€" }, "CI": { "countryName": "Ivory Coast", "currency": "XOF", "symbol": "CFA" }, "CH": { "countryName": "Switzerland", "currency": "CHF", "symbol": "CHF" }, "CO": { "countryName": "Colombia", "currency": "COP", "symbol": "CO$" }, "CN": { "countryName": "China", "currency": "CNY", "symbol": "CN¥" }, "CM": { "countryName": "Cameroon", "currency": "XAF", "symbol": "FCFA" }, "CL": { "countryName": "Chile", "currency": "CLP", "symbol": "CL$" }, "CC": { "countryName": "Cocos Islands", "currency": "AUD", "symbol": "AU$" }, "CA": { "countryName": "Canada", "currency": "CAD", "symbol": "CA$" }, "CG": { "countryName": "Republic of the Congo", "currency": "XAF", "symbol": "FCFA" }, "CF": { "countryName": "Central African Republic", "currency": "XAF", "symbol": "FCFA" }, "CD": { "countryName": "Democratic Republic of the Congo", "currency": "CDF", "symbol": "CDF" }, "CZ": { "countryName": "Czech Republic", "currency": "CZK", "symbol": "Kč" }, "CY": { "countryName": "Cyprus", "currency": "EUR", "symbol": "€" }, "CX": { "countryName": "Christmas Island", "currency": "AUD", "symbol": "AU$" }, "CR": { "countryName": "Costa Rica", "currency": "CRC", "symbol": "₡" }, "CW": { "countryName": "Curacao", "currency": "ANG", "symbol": "ANG" }, "CV": { "countryName": "Cape Verde", "currency": "CVE", "symbol": "CV$" }, "CU": { "countryName": "Cuba", "currency": "CUP", "symbol": "CUP" }, "SZ": { "countryName": "Swaziland", "currency": "SZL", "symbol": "SZL" }, "SY": { "countryName": "Syria", "currency": "SYP", "symbol": "SY£" }, "SX": { "countryName": "Sint Maarten", "currency": "ANG", "symbol": "ANG" }, "KG": { "countryName": "Kyrgyzstan", "currency": "KGS", "symbol": "KGS" }, "KE": { "countryName": "Kenya", "currency": "KES", "symbol": "Ksh" }, "SS": { "countryName": "South Sudan", "currency": "SSP", "symbol": "SSP" }, "SR": { "countryName": "Suriname", "currency": "SRD", "symbol": "SRD" }, "KI": { "countryName": "Kiribati", "currency": "AUD", "symbol": "AU$" }, "KH": { "countryName": "Cambodia", "currency": "KHR", "symbol": "KHR" }, "KN": { "countryName": "Saint Kitts and Nevis", "currency": "XCD", "symbol": "XCD" }, "KM": { "countryName": "Comoros", "currency": "KMF", "symbol": "CF" }, "ST": { "countryName": "Sao Tome and Principe", "currency": "STD", "symbol": "STD" }, "SK": { "countryName": "Slovakia", "currency": "EUR", "symbol": "€" }, "KR": { "countryName": "South Korea", "currency": "KRW", "symbol": "₩" }, "SI": { "countryName": "Slovenia", "currency": "EUR", "symbol": "€" }, "KP": { "countryName": "North Korea", "currency": "KPW", "symbol": "KPW" }, "KW": { "countryName": "Kuwait", "currency": "KWD", "symbol": "KD" }, "SN": { "countryName": "Senegal", "currency": "XOF", "symbol": "CFA" }, "SM": { "countryName": "San Marino", "currency": "EUR", "symbol": "€" }, "SL": { "countryName": "Sierra Leone", "currency": "SLL", "symbol": "SLL" }, "SC": { "countryName": "Seychelles", "currency": "SCR", "symbol": "SCR" }, "KZ": { "countryName": "Kazakhstan", "currency": "KZT", "symbol": "KZT" }, "KY": { "countryName": "Cayman Islands", "currency": "KYD", "symbol": "KYD" }, "SG": { "countryName": "Singapore", "currency": "SGD", "symbol": "S$" }, "SE": { "countryName": "Sweden", "currency": "SEK", "symbol": "Skr" }, "SD": { "countryName": "Sudan", "currency": "SDG", "symbol": "SDG" }, "DO": { "countryName": "Dominican Republic", "currency": "DOP", "symbol": "RD$" }, "DM": { "countryName": "Dominica", "currency": "XCD", "symbol": "XCD" }, "DJ": { "countryName": "Djibouti", "currency": "DJF", "symbol": "Fdj" }, "DK": { "countryName": "Denmark", "currency": "DKK", "symbol": "Dkr" }, "VG": { "countryName": "British Virgin Islands", "currency": "USD", "symbol": "$" }, "DE": { "countryName": "Germany", "currency": "EUR", "symbol": "€" }, "YE": { "countryName": "Yemen", "currency": "YER", "symbol": "YR" }, "DZ": { "countryName": "Algeria", "currency": "DZD", "symbol": "DA" }, "US": { "countryName": "United States", "currency": "USD", "symbol": "$" }, "UY": { "countryName": "Uruguay", "currency": "UYU", "symbol": "$U" }, "YT": { "countryName": "Mayotte", "currency": "EUR", "symbol": "€" }, "UM": { "countryName": "United States Minor Outlying Islands", "currency": "USD", "symbol": "$" }, "LB": { "countryName": "Lebanon", "currency": "LBP", "symbol": "LB£" }, "LC": { "countryName": "Saint Lucia", "currency": "XCD", "symbol": "XCD" }, "LA": { "countryName": "Laos", "currency": "LAK", "symbol": "LAK" }, "TV": { "countryName": "Tuvalu", "currency": "AUD", "symbol": "AU$" }, "TW": { "countryName": "Taiwan", "currency": "TWD", "symbol": "NT$" }, "TT": { "countryName": "Trinidad and Tobago", "currency": "TTD", "symbol": "TT$" }, "TR": { "countryName": "Turkey", "currency": "TRY", "symbol": "TL" }, "LK": { "countryName": "Sri Lanka", "currency": "LKR", "symbol": "SLRs" }, "LI": { "countryName": "Liechtenstein", "currency": "CHF", "symbol": "CHF" }, "LV": { "countryName": "Latvia", "currency": "EUR", "symbol": "€" }, "TO": { "countryName": "Tonga", "currency": "TOP", "symbol": "T$" }, "LT": { "countryName": "Lithuania", "currency": "EUR", "symbol": "€" }, "LU": { "countryName": "Luxembourg", "currency": "EUR", "symbol": "€" }, "LR": { "countryName": "Liberia", "currency": "LRD", "symbol": "LRD" }, "LS": { "countryName": "Lesotho", "currency": "LSL", "symbol": "LSL" }, "TH": { "countryName": "Thailand", "currency": "THB", "symbol": "฿" }, "TF": { "countryName": "French Southern Territories", "currency": "EUR", "symbol": "€" }, "TG": { "countryName": "Togo", "currency": "XOF", "symbol": "CFA" }, "TD": { "countryName": "Chad", "currency": "XAF", "symbol": "FCFA" }, "TC": { "countryName": "Turks and Caicos Islands", "currency": "USD", "symbol": "$" }, "LY": { "countryName": "Libya", "currency": "LYD", "symbol": "LD" }, "VA": { "countryName": "Vatican", "currency": "EUR", "symbol": "€" }, "VC": { "countryName": "Saint Vincent and the Grenadines", "currency": "XCD", "symbol": "XCD" }, "AE": { "countryName": "United Arab Emirates", "currency": "AED", "symbol": "AED" }, "AD": { "countryName": "Andorra", "currency": "EUR", "symbol": "€" }, "AG": { "countryName": "Antigua and Barbuda", "currency": "XCD", "symbol": "XCD" }, "AF": { "countryName": "Afghanistan", "currency": "AFN", "symbol": "Af" }, "AI": { "countryName": "Anguilla", "currency": "XCD", "symbol": "XCD" }, "VI": { "countryName": "U.S. Virgin Islands", "currency": "USD", "symbol": "$" }, "IS": { "countryName": "Iceland", "currency": "ISK", "symbol": "Ikr" }, "IR": { "countryName": "Iran", "currency": "IRR", "symbol": "IRR" }, "AM": { "countryName": "Armenia", "currency": "AMD", "symbol": "AMD" }, "AL": { "countryName": "Albania", "currency": "ALL", "symbol": "ALL" }, "AO": { "countryName": "Angola", "currency": "AOA", "symbol": "AOA" }, "AS": { "countryName": "American Samoa", "currency": "USD", "symbol": "$" }, "AR": { "countryName": "Argentina", "currency": "ARS", "symbol": "AR$" }, "AU": { "countryName": "Australia", "currency": "AUD", "symbol": "AU$" }, "AT": { "countryName": "Austria", "currency": "EUR", "symbol": "€" }, "AW": { "countryName": "Aruba", "currency": "AWG", "symbol": "AWG" }, "IN": { "countryName": "India", "currency": "INR", "symbol": "Rs" }, "AX": { "countryName": "Aland Islands", "currency": "EUR", "symbol": "€" }, "AZ": { "countryName": "Azerbaijan", "currency": "AZN", "symbol": "man." }, "IE": { "countryName": "Ireland", "currency": "EUR", "symbol": "€" }, "ID": { "countryName": "Indonesia", "currency": "IDR", "symbol": "Rp" }, "UA": { "countryName": "Ukraine", "currency": "UAH", "symbol": "₴" }, "QA": { "countryName": "Qatar", "currency": "QAR", "symbol": "QR" }, "MZ": { "countryName": "Mozambique", "currency": "MZN", "symbol": "MTn" } };
 });
