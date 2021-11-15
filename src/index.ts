@@ -277,6 +277,7 @@ const list = [
 			"iso2": "CN",
 			"prefix": "86",
 			"currency": "CNY",
+			// "symbol": "CN¥"
 			"symbol": "¥"
 	},
 	{
@@ -637,8 +638,7 @@ const list = [
 			"iso2": "JP",
 			"prefix": "81",
 			"currency": "JPY",
-			// "symbol": "¥"
-			"symbol": "JPY"
+			"symbol": "¥"
 	},
 	{
 			"en_name": "Jordan",
