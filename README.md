@@ -1,5 +1,5 @@
 ```js
-import countryList from 'country-iso2-mobile-prefix'
+import { countryList } from 'country-iso2-mobile-prefix'
 
 cosole.log(countryList)
 
