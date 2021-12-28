@@ -1,4 +1,4 @@
-declare const list: ({
+declare const countryList: ({
     en_name: string;
     zh_name: string;
     iso2: string;
@@ -13,4 +13,4 @@ declare const list: ({
     currency?: undefined;
     symbol?: undefined;
 })[];
-export default list;
+export { countryList };
