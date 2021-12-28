@@ -1,4 +1,4 @@
-const list = [
+const countryList = [
 	{
 			"en_name": "Angola",
 			"zh_name": "安哥拉",
@@ -1462,4 +1462,6 @@ const list = [
 	}
 ]
 
-export default list
+export {
+	countryList,
+}
