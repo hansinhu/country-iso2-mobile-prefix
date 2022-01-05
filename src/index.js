@@ -1388,7 +1388,7 @@ var countryList = [
         "symbol": "£"
     },
     {
-        "en_name": "United States of America",
+        "en_name": "United States",
         "zh_name": "美国",
         "iso2": "US",
         "prefix": "1",
