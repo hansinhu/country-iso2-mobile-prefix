@@ -1,4 +1,5 @@
-[
+// 这个数据来源于shopify
+const originList = [
 	{
 			"currency": {
 					"isoCode": "SHP",
@@ -2133,3 +2134,5 @@
 			"name": "Zimbabwe"
 	}
 ]
+
+exports.originList = originList
