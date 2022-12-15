@@ -211,7 +211,7 @@ var countryList = [
         "symbol": "BGN"
     },
     {
-        "en_name": "Burkina-faso",
+        "en_name": "Burkina Faso",
         "zh_name": "布基纳法索",
         "iso2": "BF",
         "prefix": "226",
@@ -604,7 +604,7 @@ var countryList = [
         "symbol": "IQD"
     },
     {
-        "en_name": "Ireland",
+        "en_name": "Ireland Republic",
         "zh_name": "爱尔兰",
         "iso2": "IE",
         "prefix": "353",
@@ -652,7 +652,7 @@ var countryList = [
         "symbol": "JD"
     },
     {
-        "en_name": "Kampuchea (Cambodia )",
+        "en_name": "Cambodia",
         "zh_name": "柬埔寨",
         "iso2": "KH",
         "prefix": "855",
@@ -660,7 +660,7 @@ var countryList = [
         "symbol": "KHR"
     },
     {
-        "en_name": "Kazakstan",
+        "en_name": "Kazakhstan",
         "zh_name": "哈萨克斯坦",
         "iso2": "KZ",
         "prefix": "327",
@@ -844,7 +844,7 @@ var countryList = [
         "symbol": "MX$"
     },
     {
-        "en_name": "Moldova Republic of",
+        "en_name": "Republic Of Moldova",
         "zh_name": "摩尔多瓦",
         "iso2": "MD",
         "prefix": "373",
@@ -996,7 +996,7 @@ var countryList = [
         "symbol": "B/."
     },
     {
-        "en_name": "Papua New Cuinea",
+        "en_name": "Papua New Guinea",
         "zh_name": "巴布亚新几内亚",
         "iso2": "PG",
         "prefix": "675",
@@ -1172,7 +1172,7 @@ var countryList = [
         "symbol": "€"
     },
     {
-        "en_name": "Solomon Is",
+        "en_name": "Solomon Islands",
         "zh_name": "所罗门群岛",
         "iso2": "SB",
         "prefix": "677",
@@ -1180,7 +1180,7 @@ var countryList = [
         "symbol": "SBD"
     },
     {
-        "en_name": "Somali",
+        "en_name": "Somalia",
         "zh_name": "索马里",
         "iso2": "SO",
         "prefix": "252",
@@ -1284,7 +1284,7 @@ var countryList = [
         "symbol": "NT$"
     },
     {
-        "en_name": "Tajikstan",
+        "en_name": "Tajikistan",
         "zh_name": "塔吉克斯坦",
         "iso2": "TJ",
         "prefix": "992",
@@ -1380,7 +1380,7 @@ var countryList = [
         "symbol": "AED"
     },
     {
-        "en_name": "United Kiongdom",
+        "en_name": "United Kingdom",
         "zh_name": "英国",
         "iso2": "GB",
         "prefix": "44",
