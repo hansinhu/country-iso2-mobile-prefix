@@ -284,6 +284,14 @@ var countryList = [
         symbol: "¥"
     },
     {
+        en_name: "Croatia",
+        zh_name: "克罗地亚",
+        iso2: "HR",
+        prefix: "",
+        currency: "",
+        symbol: ""
+    },
+    {
         en_name: "Colombia",
         zh_name: "哥伦比亚",
         iso2: "CO",
@@ -852,6 +860,14 @@ var countryList = [
         symbol: "MDL"
     },
     {
+        en_name: "Rwanda",
+        zh_name: "卢旺达",
+        iso2: "RW",
+        prefix: "",
+        currency: "",
+        symbol: ""
+    },
+    {
         en_name: "Monaco",
         zh_name: "摩纳哥",
         iso2: "MC",
@@ -954,6 +970,22 @@ var countryList = [
         prefix: "234",
         currency: "NGN",
         symbol: "₦"
+    },
+    {
+        en_name: "Northern Mariana Islands",
+        zh_name: "北马里亚纳群岛",
+        iso2: "MP",
+        prefix: "",
+        currency: "",
+        symbol: ""
+    },
+    {
+        en_name: "North Macedonia",
+        zh_name: "北马其顿",
+        iso2: "MK",
+        prefix: "",
+        currency: "",
+        symbol: ""
     },
     {
         en_name: "North Korea",
@@ -1084,6 +1116,14 @@ var countryList = [
         symbol: "RUB"
     },
     {
+        en_name: "Saint Barthélemy",
+        zh_name: "圣巴泰勒米",
+        iso2: "BL",
+        prefix: "",
+        currency: "",
+        symbol: ""
+    },
+    {
         en_name: "Saint Lueia",
         zh_name: "圣卢西亚",
         iso2: "LC",
@@ -1122,6 +1162,14 @@ var countryList = [
         prefix: "966",
         currency: "SAR",
         symbol: "SR"
+    },
+    {
+        en_name: "Serbia",
+        zh_name: "塞尔维亚",
+        iso2: "RS",
+        prefix: "",
+        currency: "",
+        symbol: ""
     },
     {
         en_name: "Senegal",
